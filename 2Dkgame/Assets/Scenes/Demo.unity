@@ -21743,7 +21743,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: db94c5d5316cf63448bc8bd3a336f833, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  destination: {fileID: 0}
+  destination: {fileID: 2062446809}
 --- !u!1 &1856657142
 GameObject:
   m_ObjectHideFlags: 0
@@ -22155,7 +22155,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: db94c5d5316cf63448bc8bd3a336f833, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  destination: {fileID: 0}
+  destination: {fileID: 1840789784}
 --- !u!61 &2062446807
 BoxCollider2D:
   m_ObjectHideFlags: 0
