@@ -96,5 +96,6 @@ namespace Platformer
                 Destroy(other.gameObject);
             }
         }
+        
     }
 }
